@@ -1,0 +1,42 @@
+{
+  "jd_title": "示例：产品经理（复制时删除本行说明，替换为实际 JD 标题）",
+  "jd_breakdown": {
+    "hard_requirements": [
+      "示例：本科及以上学历",
+      "示例：3 年以上产品经理经验"
+    ],
+    "bonus": [
+      "示例：有 B 端 SaaS 产品经验",
+      "示例：有从 0 到 1 上线经历"
+    ],
+    "ambiguous": [
+      "示例：沟通协调能力强（需在简历中找行为证据）"
+    ]
+  },
+  "candidates": [
+    {
+      "file": "张三-产品经理.pdf",
+      "name": "张三",
+      "conclusion": "通过",
+      "score": 85,
+      "match_summary": "示例：3 年 B 端产品经验与 JD 高度匹配，有一项加分经历。",
+      "evidence": [
+        {
+          "jd_requirement": "3 年以上产品经理经验",
+          "resume_snippet": "2021.07-2024.06 于 XX 科技任产品经理，负责 B 端后台",
+          "assessment": "完全匹配"
+        }
+      ],
+      "gaps": [
+        "示例：未提及 SaaS 付费转化经验"
+      ],
+      "questions": [
+        "示例：期望薪资与到岗时间是否与 JD 一致？"
+      ],
+      "interview_focus": [
+        "示例：深挖其 B 端客户调研方法论"
+      ],
+      "notes": ""
+    }
+  ]
+}
